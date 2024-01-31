@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 311.7 311.7">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-10 {
+        opacity: .14;
+      }
+
+      .cls-11 {
+        opacity: .29;
+      }
+
+      .cls-12 {
+        opacity: .62;
+      }
+
+      .cls-13 {
+        opacity: .78;
+      }
+
+      .cls-3 {
+        fill: #f2f2f2;
+      }
+
+      .cls-4 {
+        fill: #323038;
+      }
+
+      .cls-5 {
+        fill: #ff7276;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #f26a67;
+      }
+
+      .cls-8 {
+        fill: #000101;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="155.85" cy="155.85" r="155.85"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <circle class="cls-2" cx="155.85" cy="155.85" r="121.61"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_1" data-name="Capa 1">
+    <g id="Icons">
+      <g id="_26" data-name="26">
+        <circle class="cls-5" cx="155.85" cy="155.85" r="155.85"/>
+        <g class="cls-1">
+          <g class="cls-10">
+            <polyline class="cls-8" points="75.43 247.06 267.63 360.17 385.57 174.27 226.66 56.98"/>
+          </g>
+        </g>
+        <circle class="cls-3" cx="155.85" cy="155.85" r="121.61"/>
+        <path class="cls-4" d="M161.99,150.03l.36.36c2.86,2.86,2.86,7.53,0,10.39l-49.63,49.63c-2.86,2.86-7.53,2.86-10.39,0l-.36-.36c-2.86-2.86-2.86-7.53,0-10.39l49.63-49.63c2.86-2.86,7.53-2.86,10.38,0Z"/>
+        <path class="cls-4" d="M181.13,124.03h.51c4.05,0,7.34,3.29,7.34,7.34v49.48c0,4.05-3.29,7.34-7.34,7.34h-.51c-4.05,0-7.34-3.29-7.34-7.34v-49.48c0-4.05,3.29-7.34,7.34-7.34Z" transform="translate(337.51 -25.28) rotate(90)"/>
+        <path class="cls-7" d="M171.82,105.14h.16c1.24,0,2.25,1.01,2.25,2.25v129.01c0,1.24-1.01,2.25-2.25,2.25h-.16c-1.24,0-2.25-1.01-2.25-2.25V107.39c0-1.24,1.01-2.25,2.25-2.25Z" transform="translate(-71.2 172) rotate(-45.03)"/>
+        <circle class="cls-4" cx="155.85" cy="155.85" r="15.52"/>
+        <g class="cls-9">
+          <g class="cls-11">
+            <circle class="cls-6" cx="49.15" cy="79.9" r="107.64" transform="translate(-42.1 58.16) rotate(-45)"/>
+          </g>
+        </g>
+        <g>
+          <g class="cls-13">
+            <path class="cls-6" d="M143.15,65.85c-4.15,0-7.65-3.18-8.01-7.38-.36-4.42,2.93-8.31,7.35-8.67,3.08-.25,6.19-.38,9.33-.38,4.44,0,8.04,3.6,8.04,8.04s-3.6,8.04-8.04,8.04c-2.69,0-5.37.11-8.01.33-.22.02-.45.03-.67.03Z"/>
+          </g>
+          <g class="cls-13">
+            <path class="cls-6" d="M47.75,169.58c-4.44,0-8.04-3.6-8.04-8.04,0-43.7,25.67-83.72,65.4-101.95,4.02-1.85,8.8-.09,10.66,3.95,1.85,4.03.08,8.8-3.96,10.66-34.03,15.62-56.02,49.91-56.02,87.34,0,4.44-3.6,8.04-8.04,8.04Z"/>
+          </g>
+        </g>
+        <g class="cls-12">
+          <rect class="cls-4" x="149.31" y="48.97" width="15.09" height="33.82" rx="7.29" ry="7.29"/>
+        </g>
+        <g class="cls-12">
+          <rect class="cls-4" x="58.66" y="138.92" width="15.09" height="33.82" rx="7.29" ry="7.29" transform="translate(-89.63 222.03) rotate(-90)"/>
+        </g>
+        <g class="cls-12">
+          <rect class="cls-4" x="237.71" y="138.92" width="15.09" height="33.82" rx="7.29" ry="7.29" transform="translate(89.42 401.09) rotate(-90)"/>
+        </g>
+        <g class="cls-12">
+          <rect class="cls-4" x="149.31" y="229.06" width="15.09" height="33.82" rx="7.29" ry="7.29"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
