@@ -8,15 +8,17 @@
 }
 
 .icon-container div {
-    width: 30%;
+    width: 20%;
+}
+
+.icon-container svg{
+    margin: 30px;
 }
 
 #dribble :hover{
     transform: rotate(60deg); 
     transition: transform 0.5s ease-in-out; 
     transform-origin: center;
-<<<<<<< Updated upstream
-=======
 }
 
 .github :hover {
@@ -59,7 +61,7 @@
 
 #youtube :hover #play{
     transform: rotateY(180deg);
-    transition: transform 1s ease;
+    transition: transform 1s ease-in-out;
     transform-origin: center;
->>>>>>> Stashed changes
+
 }
