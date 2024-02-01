@@ -8,11 +8,59 @@
 }
 
 .icon-container div {
-    width: 30%;
+    width: 20%;
+}
+
+.icon-container svg{
+    margin: 30px;
 }
 
 #dribble :hover{
     transform: rotate(60deg); 
     transition: transform 0.5s ease-in-out; 
+    transform-origin: center;
+}
+
+.github :hover {
+    fill:red
+}
+
+#paypal :hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+    transform-origin: center;
+}
+
+#skype:hover #sbk{
+    animation: wobbly 0.4s ease infinite;
+    transform-origin: center;
+}
+
+@keyframes wobbly {
+    0%, 100% { 
+        transform: rotate(-5deg); 
+    }
+    50% { 
+        transform: rotate(5deg); 
+    }
+}
+
+@keyframes birdFlyAway {
+    0% {
+      transform: translateY(0) translateX(0);
+    }
+    100% {
+      transform: translateY(-50px) translateX(50px);
+      opacity: 0; 
+    }
+  }
+
+.twiter :hover{
+    animation: birdFlyAway 3s ease-in-out;
+}
+
+#youtube :hover #play{
+    transform: rotateY(180deg);
+    transition: transform 1s ease-in-out;
     transform-origin: center;
 }
